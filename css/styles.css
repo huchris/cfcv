@@ -1,4 +1,7 @@
 body {
-  background: #555;
-  color: #122;
+  background: #212121;
+  color: #f6f6f6;
+}
+hr {
+  border: solid green;
 }
