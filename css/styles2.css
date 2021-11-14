@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.p1 {
+  margin: -15px 0 5px 0;
+  padding: 0;
+}
+
+.top-box {
+  background-color: darkgreen;
+  padding: 5px;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.middle-box {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  margin: 0;
+}
+
+.bottom-box {
+  background-color: blueviolet;
+  padding: 5px;
+  margin: 0;
+}
